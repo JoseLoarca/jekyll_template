@@ -2,10 +2,10 @@ title: Oasis
 
 description: >-
   a jekyll site template for Codrops.
-baseurl: ""
-url: ""
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "http://josecarlos.rocks/jekyll_template/"
+url: "http://josecarlos.rocks/jekyll_template/"
+twitter_username: _josecarlos97
+github_username:  joseloarca
 
 # Build settings
 markdown: kramdown
